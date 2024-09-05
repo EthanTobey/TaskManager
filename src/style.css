@@ -1,0 +1,74 @@
+.table thead th {
+  border-top: none;
+  font-weight: 500;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.card-body {
+  padding-bottom: 5px;
+}
+
+.card-header {
+  background-color: rgb(50, 106, 200);
+  vertical-align: middle;
+}
+
+.card-title {
+  color: white;
+  text-align: center;
+  font-size: 125%;
+  font-weight: normal;
+}
+
+.table-row {
+  border-bottom: 1px solid #ccc;
+}
+
+.action-button {
+  width: 110px;
+}
+
+.modal-header {
+  background-color: rgb(50, 106, 200);
+}
+
+.modal-title {
+  color: white;
+}
+
+.modal-footer {
+  border-top: none;
+}
+
+.modal-dialog {
+  max-width: 350px;
+  margin: 80px auto;
+}
+
+.form-check-label {
+  padding-left: 8px;
+}
+
+.input-group-text {
+  position: absolute;
+  top: 12%;
+  right: 0;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+
+.datepicker-input {
+  background-color: transparent !important;
+}
+
+.popup-button {
+  width: 110px;
+}
