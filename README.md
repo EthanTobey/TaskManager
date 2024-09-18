@@ -32,15 +32,10 @@ This repository contains a **Task Manager** website built with **Vue** and **Boo
    cd task-manager
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd task-manager
-   ```
-
 3. Install dependencies:
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 
 4. Run the development server
    ```bash
