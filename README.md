@@ -30,4 +30,10 @@ This repository contains a **Task Manager** website built with **Vue** and **Boo
   ```bash
    cd task-manager
 
+3. Install dependencies:
+  ```bash
+   npm install
 
+4. Run the development server
+  ```bash
+   npm run serve
